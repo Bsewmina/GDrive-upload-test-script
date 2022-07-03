@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-infini-testing",
+  "private_key_id": "e3e334567769b852cd3e8f8d64a8267869ddf424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7zkJSKnFlBf06\nb8KjMnmmuGVrd+2iyzYn3hQPMWKztthlYRjG/ldsGw2dyo+jLezN4dppd5brFKEi\noTZbtkcQkL1IED5Bhs9x1CggVX8rws7muWqvr30ocatv/evrl0A05yw7NlcG575t\n+dj+DT5NTGjlsLVhH5FpKjThlD4wGupJwPJGFNRL+6UL3YN49OJyAnVA+kvV8tc7\njLf1waoB7u75jP7/4P4OVnJ5cfIHBBsYMxXaBfdaK5c4X/l5uAg+lBg/BUQfUbCV\nnYjVHnOy5xR4ZPiBaMU48lKYcad3EBasHZaJlQr6K8j3ep1MmUfewDSn23nbo5f4\nXd9sb56vAgMBAAECggEAAeZYVfmWmrtMHJKNa333gdSG7k5T+0ITLkPfOQb6lCY/\njD0Vx78Rk+WFlyshTNd4FqFEQKGiHLeeUzDIY7NmJTSoehZtsONt1+B1QDegPNic\nsCTPEdpfLLJrMUKK4aX65YgCRRtCkVkfvdU/wh2TzJ7afiC1GxksFKFO3GXiEmZ8\njs4sHt/8FIR0Y+NLfo8Tvnnc9tCdFne1e5l+RTaioVGXGkZ5aUHWlnmuLPhah+4E\n4Jjx6bbA+2ivO2E1+W1UaYnwutDawBbIeYvXP6aQvoSu2TMU7U6rOBT5aAEaoPYo\n2gJIlbVCnbZjYO9hZvANixoWlKz7sgiceIpAn2SqwQKBgQDxtl/Ub8g+a4vC5LF/\nupPGkZ70ibenS2QJNh7zzpdBKx49QyW2VMgAuuHwHFn4T+t4raW4fGIcTY6mFMEm\nP2kafOtFeItvyADlCYmstnG4lXqtl8eTsZbGFcn8Zp3u7FP06bFPhtYks3TmA/c0\nvJad79d2I74MN0JBCjuLtTQOkQKBgQDG6Ck6C2/jwktrKN/6pI/0jSG0mlVTb7wF\novgrQiQIuTxJPwHKvVWVT9IvQWFtMZs/Gk0j2cKW4G0khxOU+f9xjvSzE4kmGSju\nuasuguNy308KnTsUHxUOqUecPlFcnNGSMXQjj8Tqf2dJKBFYXlC88SXOG8PYTise\nzmk5X6X5PwKBgH7MuYDsExQLvwnChwsGibdFdSm7hUiR2Cys45fq7JYXVIm2y/XW\njAU2BIi9lsUYx+JK1gDt31oRpZ+ii6DQ6wYmOhX7ospFFZMRadPc8dNvNygR03S7\nWOkZTRjHjFpmR7TXU1jw1y3xpoVz1x8nP6wiwdkL7wrhgjQ0dgBYUrLBAoGABwE+\nEnE8q4S4KznxSV5qQ26E9VtKDfotYPVwT/WwVy5O1TWG1qD8VpnNCSUATVwl338J\noG2W0MFulo67Pc/gExu5umTBu7m/G0kmoiix4eXDXthSsE636yBDCVmYe+554vAi\n6u2xPaDm/kiO89G+fijv7+ZCa2e1VQxn4EFiEvkCgYEAlI+CBo7ox6nds4psXgdj\ncByy2cNHlc5xRSV2oGc5a626CjhSP5Em1L9/KqPpzcpsxVXUuY07Pvq88tUZdoYj\n2HEXc73JE2W+fj2kycUgEFUdb4YXrY00A9KOMYoeb3qFY47KRtOILBvmKpbjximl\nwMAWiUoXZi7oODxVeuDCPcs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "infiiniserviceaccouttest@my-project-infini-testing.iam.gserviceaccount.com",
+  "client_id": "113986421293210161743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/infiiniserviceaccouttest%40my-project-infini-testing.iam.gserviceaccount.com"
+}
